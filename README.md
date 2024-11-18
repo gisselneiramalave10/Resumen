@@ -31,6 +31,8 @@ Aplicación de Adelantos y Retrasos : Modificaciones a la secuencia que permiten
 6.2.3 Secuenciar las Actividades: Salidas
 Diagramas de Red del Cronograma del Proyecto : Representación gráfica de las actividades y sus relaciones lógicas, creadas manualmente o mediante software de gestión de proyectos.
 Actualizaciones a los Documentos del Proyecto : Incluye la actualización de listas de actividades, atributos de las actividades y el registro de riesgos.
+6.3
+6.3.1 
 6.4 
 6.5. DESARROLLAR EL CRONOGRAMA
 Proceso que consiste en analizar el orden de las actividades, su duración, los requisitos de recursos y las restricciones para crear el cronograma del proyecto. La incorporación de las actividades, duraciones y recursos a la herramienta de planificación genera un cronograma con fechas planificadas para completar las actividades del proyecto. 
