@@ -33,7 +33,56 @@ Diagramas de Red del Cronograma del Proyecto : Representación gráfica de las a
 Actualizaciones a los Documentos del Proyecto : Incluye la actualización de listas de actividades, atributos de las actividades y el registro de riesgos.
 6.3
 6.3.1 
-6.4 
+6.4  Estimar la Duración de las Actividades
+Estimar la Duración de las Actividades es el proceso que consiste en establecer aproximadamente la
+cantidad de periodos de trabajo necesarios para finalizar cada actividad con los recursos estimados.
+La mayor parte del software de gestión de proyectos para planificación manejará esta situación mediante el
+calendario del proyecto y los calendarios de recursos de periodos de trabajo alternativos que, por lo general, se
+identifican por los recursos que requieren periodos de trabajo específicos.
+entradas- Herramientas y tecnicas-Salidas
+6.4.1 Estimar la Duración de las Actividades: Entradas
+Requisitos de Recursos de la Actividad
+Los requisitos estimados de recursos de las actividades (Sección 6.3.3.1) tendrán un efecto sobre
+la duración de las actividades. 
+4 Calendarios de Recursos
+El calendario de recursos, desarrollado como parte del proceso Estimar
+los Recursos de las Actividades, puede abarcar el tipo de recursos humanos, su disponibilidad y
+su capacidad. 
+Enunciado del Alcance del Proyecto
+Las restricciones y supuestos del enunciado del alcance del proyecto (Sección 5.2.3.1) se tienen en
+cuenta al estimar la duración de las actividades. Entre los ejemplos de supuestos, se incluyen, entre otros:
+•	 las condiciones existentes
+•	 las disponibilidad de información
+•	 la frecuencia de los periodos de presentación de informes
+Entre los ejemplos de restricciones, se incluyen:
+•	 la disponibilidad de recursos capacitados
+•	 los términos y requisitos del contrato
+6.4.2 Estimar la Duración de las Actividades: Herramientas y Técnicas
+inicio de Expertos
+1.El juicio de expertos, guiado por la información histórica, puede proporcionar información sobre
+el estimado de la duración o las duraciones máximas recomendadas, procedentes de proyectos
+similares anteriores.
+ Estimación Análoga
+2.La estimación análoga utiliza parámetros de un proyecto anterior similar, tales como la duración,
+el presupuesto, el tamaño, la carga y la complejidad, como base para estimar los mismos parámetros
+o medidas para un proyecto futuro. 
+Estimación Paramétrica
+3.La estimación paramétrica utiliza una relación estadística entre los datos históricos y otras
+variables (p.ej., metros cuadrados en la construcción) para calcular una estimación de parámetros de
+una actividad tales como costo, presupuesto y duración.
+4 Estimación por Tres Valores
+La precisión de los estimados de la duración de la actividad puede mejorarse tomando en
+consideración el grado de incertidumbre y de riesgo de la estimación. Este concepto se originó con la
+Técnica de Revisión y Evaluación de Programas (método PERT).
+6.4.3Estimar la Duración de las Actividades: Salidas
+.1 Estimados de la Duración de la Actividad
+Los estimados de la duración de las actividades son valoraciones cuantitativas de la cantidad probable
+de periodos de trabajo que se necesitarán para completar una actividad.
+.2 Actualizaciones a los Documentos del Proyecto
+Entre los documentos del proyecto que pueden actualizarse, se incluyen, entre otros:
+•	 los atributos de la actividad
+•	 los supuestos hechos durante el desarrollo del estimado de la duración de las actividades,
+como los niveles de habilidad y disponibilidad. 
 6.5. DESARROLLAR EL CRONOGRAMA
 Proceso que consiste en analizar el orden de las actividades, su duración, los requisitos de recursos y las restricciones para crear el cronograma del proyecto. La incorporación de las actividades, duraciones y recursos a la herramienta de planificación genera un cronograma con fechas planificadas para completar las actividades del proyecto. 
 6.5.1. ENTRADAS
